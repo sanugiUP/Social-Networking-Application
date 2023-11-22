@@ -1,0 +1,12 @@
+.container {
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(#fde386, #a3f7ea, #ec8e77);
+    height: 100%;
+    overflow-x: hidden;
+}
+
+.custom-text-size {
+    font-size: 24px;
+    /* Adjust the size as needed */
+}
